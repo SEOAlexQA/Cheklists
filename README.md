@@ -11,7 +11,7 @@ Critical Test Web - https://docs.google.com/spreadsheets/d/1DxZv2ix7Li2nQLNq8MTi
 Regression Test Web - https://docs.google.com/spreadsheets/d/1ZqveXW9-f93vk6lMXdFoSnAj6g-xLiTq/edit#gid=625376572  
 
 Bug Reports  
-Mobile:
+Mobile:  
 Bugreport Mobile eng - https://docs.google.com/spreadsheets/d/1TFz3Wc1oJo8JFL4ABcpUqOE41SVtFIGh/edit#gid=1218731978  
 Bugreport Mobile rus - https://docs.google.com/spreadsheets/d/12YxcnhFAAXBa9fQRbLsr5T31Pn6MTKKw/edit#gid=447276732  
 
