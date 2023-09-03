@@ -2,7 +2,7 @@
 Cheklists Mobile/Web/Mobile Web
 
 Mobile
-Smoke Test Mobile - https://docs.google.com/spreadsheets/d/1AyMnNGCucr2wJ920R0_hjFFYI7vjrAFo/edit#gid=1290124412
+Smoke Test Mobile - https://docs.google.com/spreadsheets/d/1AyMnNGCucr2wJ920R0_hjFFYI7vjrAFo/edit#gid=1290124412  
 
 Critical Test Mobile - https://docs.google.com/spreadsheets/d/1CTv9VRZTb8X5MCGgzJMCC_0aLpZBLI4H/edit#gid=1274597264
 
